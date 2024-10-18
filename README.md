@@ -14,7 +14,7 @@ This project focuses on the automatic segmentation of cardiac structures from me
 The project includes tools for loading, preprocessing, and visualizing 3D and 4D NIfTI images. By utilizing these tools, we aim to provide insights into the effectiveness of different segmentation techniques and contribute to improving medical image analysis.
 
 ## Functions of Files in the Repository
-- `visualize_nifti.py`: This script contains functions to:
+- `data_acquisition.py`: This script contains functions to:
   - Load NIfTI files using the `nibabel` library.
   - Normalize the image data for better visualization.
   - Visualize slices from 3D or frames from 4D NIfTI images.
