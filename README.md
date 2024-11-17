@@ -80,7 +80,9 @@ For the next milestone, we plan to:
 - **Epochs**: 10
 - **Optimization Algorithm**: Adam
 - **Learning Rate**: Default Adam optimizer learning rate.
-
+## Results
+1.	Last epoch shows preliminary results of 90% accuracy for both training and validation.
+2.	Running the last saved model on the test set shows accuracy of 94%.
 ## How to Use
 1. Clone this repository.
 2. Download the ACDC dataset using the Kaggle API or from the official source.
