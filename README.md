@@ -17,7 +17,8 @@ The project includes tools for loading, preprocessing, and visualizing 3D and 4D
   - Normalize the image data for better visualization.
   - Visualize slices from 3D or frames from 4D NIfTI images.
 
----
+--- 
+## Find 2nd milestone results under 2nd milestone folder
 
 # MRI Image Segmentation with U-Net
 
