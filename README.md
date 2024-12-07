@@ -43,7 +43,7 @@ The U-Net is a convolutional neural network architecture widely used for biomedi
 3. **Skip Connections**: Merge features from encoder layers with decoder layers to improve spatial resolution.
 
 **Specific Details for This Project**:
-- The base model code was sourced from [this repository](https://github.com/) (originally targeting binary segmentation of MRI masks).
+- The base model code was sourced from [this repository]([https://github.com/](https://github.com/arp95/cnn_architectures_image_segmentation)) (originally targeting binary segmentation of MRI masks).
 - We adapted the model to handle multi-class segmentation with four classes, using categorical cross-entropy as the loss function.
 
 ## Challenges
